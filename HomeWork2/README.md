@@ -8,4 +8,4 @@
 Выбран датасет об успеваемости учеников.
 
 Ссылка на датасет:
-[https://www.kaggle.com/datasets/poushal02/student-academic-stress-real-world-dataset](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
+https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
