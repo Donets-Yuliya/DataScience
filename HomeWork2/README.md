@@ -9,3 +9,9 @@
 
 Ссылка на датасет:
 https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
+
+Модули:
+data_loading.py - модуль для загрузки данных
+data_processing.py - модуль предобработки данных
+data_visualization.py - модуль визуализации данных
+train_model.py - модуль обучения модели
