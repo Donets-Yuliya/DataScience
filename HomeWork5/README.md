@@ -23,4 +23,5 @@
 ✓ Elastic Net.
 ✓ Ансамбль регрессоров.
 
-2) Использовать make regression
+
+2) Использовать make_classification
